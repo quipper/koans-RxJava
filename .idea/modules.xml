@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" filepath="$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.test.iml" />
+    </modules>
+  </component>
+</project>
