@@ -4,3 +4,4 @@ summary: RxJava in Kotlin koans.
 programming_language: Kotlin
 content:
 - lesson1
+- Operator
