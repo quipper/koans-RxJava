@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" filepath="$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lesson1/Observable/koans-RxJava.lesson1-Observable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Map/koans-RxJava.Operator-Map.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/koans-RxJava.util.test.iml" />
