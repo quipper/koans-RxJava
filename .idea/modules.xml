@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" filepath="$PROJECT_DIR$/.idea/modules/koans-RxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Operator/Defer/koans-RxJava.Operator-Defer.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Basic/Observable/koans-RxJava.Basic-Observable.test.iml" />
